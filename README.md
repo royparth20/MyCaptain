@@ -1,5 +1,5 @@
-#LESSION 4
-Image Classifier with MNIST Data Set
+# LESSION 4
+# Image Classifier with MNIST Data Set
 
 [1]
 import pandas as pd
@@ -91,52 +91,3 @@ len(Y_pred)
 [36]
 count/len(Y_pred)
 0.9675
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
